@@ -1,0 +1,15 @@
+[{
+  "Name": "darken",
+  "Description": "A dark colorscheme based on dark mode terminal for micro",
+  "Tags": ["darken","colorscheme","color","theme"],
+  "Website": "https://github.com/informeai/darken"
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "Url": "https://github.com/informeai/darken/archive/v1.0.0.zip",
+      "Require": {
+        "micro": ">=2.0.1"
+      }
+    }
+  ]
+}]
