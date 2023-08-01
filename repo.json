@@ -2,8 +2,16 @@
   "Name": "darken",
   "Description": "A dark colorscheme based on dark mode terminal for micro",
   "Tags": ["darken","colorscheme","color","theme"],
-  "Website": "https://github.com/informeai/darken",
+  "Website": "https://github.com/taconi/micro-darken",
+  "License": "MIT",
   "Versions": [
+    {
+      "Version": "1.0.1",
+      "Url": "https://github.com/taconi/micro-darken/archive/refs/tags/1.0.1.zip",
+      "Require": {
+        "micro": ">=2.0.11"
+      }
+    },
     {
       "Version": "1.0.0",
       "Url": "https://github.com/informeai/darken/archive/v1.0.0.zip",

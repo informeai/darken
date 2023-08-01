@@ -1,6 +1,8 @@
 # Darken
 Plugin with colorscheme of [micro](https://micro-editor.github.io/) editor.
 
+Write your codes with theme darken based on terminals with schema that simulates night environment
+
 
 ![Demo](assets/darken.png)
 
