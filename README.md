@@ -29,3 +29,9 @@ In your micro editor press **Ctrl-e** and run command:
 ```shell
 micro -plugin install darken
 ```
+
+## Usage
+In your micro editor press **Ctrl-e** and run command:
+```
+> set colorscheme darken
+```
